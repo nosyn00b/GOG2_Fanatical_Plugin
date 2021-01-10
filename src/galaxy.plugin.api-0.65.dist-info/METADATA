@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: galaxy.plugin.api
+Version: 0.65
+Summary: GOG Galaxy Integrations Python API
+Home-page: UNKNOWN
+Author: Galaxy team
+Author-email: galaxy@gog.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: aiohttp (>=3.5.4)
+Requires-Dist: certifi (>=2019.3.9)
+Requires-Dist: psutil (>=5.6.3) ; sys_platform == "darwin"
+
+UNKNOWN
+
+

@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Visual Studio Code Generated and Configuration
+*.sln
+*.pyproj
+*.code-workspace

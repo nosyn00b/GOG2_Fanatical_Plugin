@@ -1,0 +1,11 @@
+{
+  "name": "Fanatical",
+  "platform": "fanatical",
+  "guid": "f72d61b1-f2e2-4e46-98e0-c5f33cca34b8",
+  "version": "0.0.1",
+  "description": "Fanatical GOG Galaxy Plugin",
+  "author": "nosyn00b",
+  "email": "nosyn00b71@gmail.com",
+  "url": "https://github.com/nosyn00b/GOG2_fanatical_plugin",
+  "script": "plugin.py"
+}
