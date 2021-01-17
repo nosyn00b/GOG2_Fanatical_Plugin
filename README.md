@@ -34,7 +34,7 @@ Installation of a plugin is an easy procedure, consisting in the following steps
 You can download the last tested and packaged release build or even use the last (untested and unpackaged) available code.
 
 ## 1. (recommended) Downloading the last release
-You can find the last release zip [here](releases) (only windows 10 tested, but it may work also on other platforms).
+You can find the last release zip [here](https://github.com/nosyn00b/GOG2_Fanatical_Plugin/releases) (only windows 10 tested, but it may work also on other platforms).
 
 ## 1. (alternative) Downloading the last code available
 
