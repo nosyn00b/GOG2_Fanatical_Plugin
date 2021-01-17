@@ -61,7 +61,7 @@ Unpack downloaded release zip to the just created folder (or copy all src conten
 ## 4. Restart GOG 2 Galaxy Client (and check if installation was successful)
 You have to restart GOG Galaxy to let it see the new plugin. Please note that **closing the window will not exit GOG Galaxy, you have to use the exit menu** in the "gear" drop down (top left of the window)
 
-![GOG Exit Menu](resources/GOG_exit.png)
+![GOG Exit Menu](resources/GOG_Exit.png)
 
 After (really) exiting, re-start GoG Galaxy normally. When you get to the interface you still will not see anything changed, but the plugin should be installed, so let check for it going in to the same "gear" drop down menu and opening this time the Setting sub-menu
 
