@@ -36,7 +36,7 @@ You can download the last tested and packaged release build or even use the last
 \[*Update\] If you have already used the Galaxy Plugin Downloader by [Slashbunny](https://github.com/Slashbunny), now you can also download and install this plugin with that tool, getting it [here]( https://github.com/Slashbunny/gog-galaxy-plugin-downloader). Currently still not released, so you have to do by running the last src code.*
 
 ## 1. (recommended) Downloading the last release
-You can find the last release zip [here](releases) (only windows 10 tested, but it may work also on other platforms).
+You can find the last release zip [here](https://github.com/nosyn00b/GOG2_Fanatical_Plugin/releases) (only windows 10 tested, but it may work also on other platforms).
 
 ## 1. (alternative) Downloading the last code available
 
@@ -63,7 +63,7 @@ Unpack downloaded release zip to the just created folder (or copy all src conten
 ## 4. Restart GOG 2 Galaxy Client (and check if installation was successful)
 You have to restart GOG Galaxy to let it see the new plugin. Please note that **closing the window will not exit GOG Galaxy, you have to use the exit menu** in the "gear" drop down (top left of the window)
 
-![GOG Exit Menu](resources/GOG_exit.png)
+![GOG Exit Menu](resources/GOG_Exit.png)
 
 After (really) exiting, re-start GoG Galaxy normally. When you get to the interface you still will not see anything changed, but the plugin should be installed. Let check this going in to the same "gear" drop down menu and opening this time the Setting sub-menu
 
