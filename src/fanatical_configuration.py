@@ -37,7 +37,7 @@ BUNDLE_PAGE = HOMEPAGE+ LANGUAGESTRING +'/bundle' #used as exit point from GG em
 
 KEYS_URL = HOMEPAGE+'api/user/keys'
 
-HOMEPAGE_URI_REGEX = r"^https://(www\.)*fanatical\.com/"
+HOMEPAGE_URI_REGEX = r"^https://(www\.)*fanatical\.com/(../)*"
 SCRAPING_URI_REGEX = r"^https://(www\.)*fanatical\.com/../product-library.*"
 END_URI_REGEX = r"^https://(www\.)*fanatical\.com/../orders.*" # This is used as reference to exit the GG integrated browser (in authentication mode)
 END_URI_REGEX_NOAUTH_DEBUG = r"^https://(www\.)*fanatical\.com/../bundle.*" # This is used as reference to exit the GG integrated browser (in debug/disabled authentication mode)
