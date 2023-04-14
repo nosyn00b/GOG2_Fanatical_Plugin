@@ -1,6 +1,8 @@
 # GOG2_Fanatical_Plugin
 GOG Galaxy 2.0 Connector to Fanatical Platform
 
+***WARNING: this project is highly dependant from the Fanatical Site structure/updates and the GOG2 Plugin Library. Currently the Fanatical site is no more compatible with the internal web prowser part of the GOG2 plugin library, so the initial authentication process (see "Accessing your Fanatical account library" chapeter below) remains stucked when rendering the login page. This means you can no more connect the Fanatical Store from scratch because the initial authentication is not working, but you can continue to use the plugin if you already connected in the past. In this case please do not disconnect!***
+
 ## Overview
 This plugin was written to let you see in the Gog Galaxy 2.0 UI all those owned-but-not-redeemed games that you purchased from Fanatical.
 
